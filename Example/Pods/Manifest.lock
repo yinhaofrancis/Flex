@@ -1,0 +1,16 @@
+PODS:
+  - Flex (0.1.0)
+
+DEPENDENCIES:
+  - Flex (from `../`)
+
+EXTERNAL SOURCES:
+  Flex:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Flex: 84759ba0cedcfa6bb2ba0cce0e981f6ba10e4862
+
+PODFILE CHECKSUM: a5c3d13539f8d81cb9132f540de04dcf5b66c9fe
+
+COCOAPODS: 1.9.1

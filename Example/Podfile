@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Flex_Example' do
+  pod 'Flex', :path => '../'
+
+  target 'Flex_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

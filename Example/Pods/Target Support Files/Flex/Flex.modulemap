@@ -1,0 +1,6 @@
+framework module Flex {
+  umbrella header "Flex-umbrella.h"
+
+  export *
+  module * { export * }
+}

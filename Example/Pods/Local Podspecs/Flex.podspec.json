@@ -1,0 +1,22 @@
+{
+  "name": "Flex",
+  "version": "0.1.0",
+  "summary": "Flex Display View",
+  "description": "Flex Box layout View",
+  "homepage": "https://github.com/yinhaofrancis/Flex",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yinhaofrancis": "yinhao@5eplay.com"
+  },
+  "source": {
+    "git": "https://github.com/yinhaofrancis/Flex.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Flex/Classes/**/*"
+}
